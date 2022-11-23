@@ -1,0 +1,29 @@
+28
+\neg
+\neg \neg
+\lor
+\Rightarrow
+a12
+( )
+\neg ( a34 )
+( a12 \lor a13 )
+\Leftrightarrow
+123
+ABC
+ABC123
+(
+a45 \lor b \Rightarrow
+( d \land e ) \Leftrightarrow ( b \lor c )
+a \lor T
+a45 \lor ( b \Rightarrow )
+a12 \Rightarrow a13
+a12 \Leftrightarrow a13
+a45 \lor ( b \Rightarrow \land )
+a45 \lor ( b \Rightarrow \lneg )
+\lor T
+F \land
+a
+a12 \land a13
+a45 \lor b \Rightarrow c
+a45 \lor ( b \Rightarrow c )
+F \land b

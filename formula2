@@ -1,0 +1,17 @@
+16
+\neg
+\neg \neg
+\lor
+\Rightarrow
+\Leftrightarrow
+123
+ABC
+ABC123
+(
+a45 \lor b \Rightarrow
+a45 \lor ( b \Rightarrow )
+a45 \lor ( b \Rightarrow \land )
+a45 \lor ( b \Rightarrow \neg )
+\lor T
+F \land
+\neg ( )
